@@ -11,4 +11,5 @@ create table pessoas(
     nacionalidade varchar(20)
 );
 
-describe pessoas;
+describe cadastro;
+drop database cadastro;
