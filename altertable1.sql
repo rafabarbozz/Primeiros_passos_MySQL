@@ -26,3 +26,4 @@ alter table gafanhortos
 rename to gafanhotos;
  
  select * from gafanhotos;
+ 
